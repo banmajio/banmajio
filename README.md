@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 
 <p align="left">
-<img alt="banmajio's github stats" height='200' src="https://github-readme-stats.vercel.app/api?username=banmajio&show_icons=true&include_all_commits=true">
-<img alt="banmajio's github stats" height='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=banmajio">
+<img alt="banmajio's github stats" height='190' src="https://github-readme-stats.vercel.app/api?username=banmajio&show_icons=true&include_all_commits=true">
+<img alt="banmajio's github stats" height='190' src="https://github-readme-stats.vercel.app/api/top-langs/?username=banmajio">
 </p>
 
 ## Projects
