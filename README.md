@@ -21,6 +21,3 @@ Here are some ideas to get you started:
 <img alt="banmajio's github stats" height='190' src="https://github-readme-stats.vercel.app/api/top-langs/?username=banmajio">
 </p>
 
-## Projects
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=banmajio&repo=RTSPtoRTMP&theme=shades-of-purple)](https://github.com/banmajio/RTSPtoRTMP)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=banmajio&repo=Library&theme=shades-of-purple)](https://github.com/banmajio/Library)
